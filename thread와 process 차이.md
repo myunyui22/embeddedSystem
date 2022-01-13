@@ -21,4 +21,4 @@
 ## 스케쥴링
 * 프로세스나 쓰레드는 run, block, ready 3개의 상태를 가짐
 * 한개의 cpu에 여러 프로세스를 실행하는 순서 및 방법을 결정하는것을 프로세스 스케쥴링이라고 함
-* 실행중인 프로세스가 변경될 때 [context change](https://)가 일어남 
+* 실행중인 프로세스가 변경될 때 [context change](https://github.com/myunyui22/embeddedSystem/blob/main/process%20change%EC%99%80%20context%20change.md)가 일어남 
