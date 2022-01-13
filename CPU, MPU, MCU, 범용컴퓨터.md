@@ -21,4 +21,6 @@
 * 코어 수가 많을 수록 병렬처리효율이 증가함
 * 코어 종류에 따라 [ARM 계열](https://), [MIPS 계열](https://), [x86 계열](https://) 등으로 구분됨
 
-[](https://user-images.githubusercontent.com/65693240/149354656-90af6b4c-f10d-4773-813d-67172962f3c6.jpg)
+<div align="center">
+  <img  width="100%" src="https://user-images.githubusercontent.com/65693240/149354656-90af6b4c-f10d-4773-813d-67172962f3c6.jpg">
+</div>
