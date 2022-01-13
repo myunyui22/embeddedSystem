@@ -9,6 +9,9 @@
 * context change 중에서 프로세스간 change가 일어나는것을 의미하는듯하다(...)
 * 위에서 설명했듯이 프로세스간에는 자원 공유가 안되기 때문에 process change가 일어날 경우 시간이 많이 걸리고 캐시 사용 효율도 좋지 않다
 
+<div align="center">
+  <img width="300" center src="https://user-images.githubusercontent.com/65693240/149355504-4959ffa3-3236-4049-8c9c-b11ce0a1ee1e.png">
+</div>
 
 --------------------------------------------------------------
 ## process와 thread의  상속
